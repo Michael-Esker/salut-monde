@@ -1,2 +1,2 @@
 # salut-monde
-Salut, ca c'est mon premier repositoire sur GitHub.
+Salut, ca c'est mon premier depot sur GitHub.
